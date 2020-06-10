@@ -1,3 +1,5 @@
+# coding=utf-8
+
 import random
 #导入random库
 import pygame
